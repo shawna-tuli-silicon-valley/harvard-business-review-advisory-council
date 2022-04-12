@@ -1,2 +1,1 @@
-# harvard-business-review-advisory
-[Advisory] Harvard Business Review
+# Harvard Business Review Advisory
